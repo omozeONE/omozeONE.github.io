@@ -1,0 +1,62 @@
+{
+  "semesters": [
+    {
+      "title": "Semester 1",
+      "duration": "14 weeks",
+      "courses": [
+        { "code": "NUR 3325", "title": "Adult Health I Skills", "credits": 3 },
+        { "code": "NUR 3535", "title": "Adult Health I Theory", "credits": 5 },
+        { "code": "NUR 3336", "title": "Adult Health I Practicum", "credits": 3 },
+        { "code": "NUR 3336S", "title": "Adult Health I Simulation", "credits": 3 },
+        { "code": "NUR 3330", "title": "Professionalism in Nursing", "credits": 3 },
+        { "code": "NUR 3250", "title": "Pharmacology for Nurses I", "credits": 2 }
+      ],
+      "totalCredits": 19
+    },
+    {
+      "title": "Semester 2",
+      "duration": "14 weeks",
+      "courses": [
+        { "code": "NUR 3320", "title": "Maternal Newborn Theory", "credits": 3 },
+        { "code": "NUR 3126", "title": "Maternal Newborn Practicum", "credits": 1 },
+        { "code": "NUR 3126S", "title": "Maternal Newborn Simulation", "credits": 1 },
+        { "code": "NUR 3366", "title": "Adult Health II Skills", "credits": 3 },
+        { "code": "NUR 3386", "title": "Adult Health II Practicum", "credits": 3 },
+        { "code": "NUR 3386S", "title": "Adult Health II Simulation", "credits": 1 },
+        { "code": "NUR 3365", "title": "Adult Health II Theory", "credits": 3 },
+        { "code": "NUR 3251", "title": "Pharmacology for Nurses II", "credits": 2 }
+      ],
+      "totalCredits": 17
+    },
+    {
+      "title": "Semester 3",
+      "duration": "14 weeks",
+      "courses": [
+        { "code": "NUR 4386", "title": "Adult Health III Practicum", "credits": 3 },
+        { "code": "NUR 4386S", "title": "Adult Health III Simulation", "credits": 1 },
+        { "code": "NUR 4385", "title": "Adult Health III Theory", "credits": 3 },
+        { "code": "NUR 4357", "title": "Nursing Leadership and Management", "credits": 3 },
+        { "code": "LDR 4101", "title": "Leadership and Career Capstone", "credits": 1 },
+        { "code": "NUR 4332", "title": "Child and Family Nursing Theory", "credits": 3 },
+        { "code": "NUR 4132", "title": "Child & Family Nursing Practicum", "credits": 1 },
+        { "code": "NUR 4132S", "title": "Child and Family Nursing Simulation", "credits": 1 },
+        { "code": "NUR 4310", "title": "Nursing Research", "credits": 3 }
+      ],
+      "totalCredits": 19
+    },
+    {
+      "title": "Semester 4",
+      "duration": "14 weeks",
+      "courses": [
+        { "code": "NUR 4160", "title": "Community and Global Health Practicum", "credits": 1 },
+        { "code": "NUR 4360", "title": "Community and Global Health Theory", "credits": 3 },
+        { "code": "NUR 4280", "title": "Transition to Practice", "credits": 2 },
+        { "code": "NUR 4370", "title": "Capstone Practicum", "credits": 3 },
+        { "code": "NUR 4389", "title": "Adult Health IV Theory", "credits": 3 },
+        { "code": "NUR 4295", "title": "NCLEX Preparation and Review", "credits": 2 }
+      ],
+      "totalCredits": 14
+    }
+  ],
+  "totalCreditHours": 69
+}
